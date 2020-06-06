@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "portosaurusdev.github.io/ethansk-c2196/static/css/main.4319e8d8.chunk.css",
+    "main.js": "portosaurusdev.github.io/ethansk-c2196/static/js/main.c268dd06.chunk.js",
+    "main.js.map": "portosaurusdev.github.io/ethansk-c2196/static/js/main.c268dd06.chunk.js.map",
+    "runtime-main.js": "portosaurusdev.github.io/ethansk-c2196/static/js/runtime-main.3ffd3261.js",
+    "runtime-main.js.map": "portosaurusdev.github.io/ethansk-c2196/static/js/runtime-main.3ffd3261.js.map",
+    "static/css/2.2c0f828a.chunk.css": "portosaurusdev.github.io/ethansk-c2196/static/css/2.2c0f828a.chunk.css",
+    "static/js/2.5b76354d.chunk.js": "portosaurusdev.github.io/ethansk-c2196/static/js/2.5b76354d.chunk.js",
+    "static/js/2.5b76354d.chunk.js.map": "portosaurusdev.github.io/ethansk-c2196/static/js/2.5b76354d.chunk.js.map",
+    "index.html": "portosaurusdev.github.io/ethansk-c2196/index.html",
+    "precache-manifest.95215c0ed0544b73d1c130ad6fc6f74e.js": "portosaurusdev.github.io/ethansk-c2196/precache-manifest.95215c0ed0544b73d1c130ad6fc6f74e.js",
+    "service-worker.js": "portosaurusdev.github.io/ethansk-c2196/service-worker.js",
+    "static/css/2.2c0f828a.chunk.css.map": "portosaurusdev.github.io/ethansk-c2196/static/css/2.2c0f828a.chunk.css.map",
+    "static/css/main.4319e8d8.chunk.css.map": "portosaurusdev.github.io/ethansk-c2196/static/css/main.4319e8d8.chunk.css.map",
+    "static/js/2.5b76354d.chunk.js.LICENSE.txt": "portosaurusdev.github.io/ethansk-c2196/static/js/2.5b76354d.chunk.js.LICENSE.txt",
+    "static/media/defaultbanner.png": "portosaurusdev.github.io/ethansk-c2196/static/media/defaultbanner.d1055b19.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ffd3261.js",
+    "static/css/2.2c0f828a.chunk.css",
+    "static/js/2.5b76354d.chunk.js",
+    "static/css/main.4319e8d8.chunk.css",
+    "static/js/main.c268dd06.chunk.js"
+  ]
+}
